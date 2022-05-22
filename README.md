@@ -3,8 +3,8 @@ Hi there 👋 im d4vz.
 - 🌱 I’m currently learning Html and Css
 
 ```Python
-def Say_Hello():
-    print("Hello!")
+def Say(a):
+    print(f"{a}")
     
-Say_Hello()
+Say("Hello!")
 ```
