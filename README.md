@@ -9,3 +9,6 @@ def Say(a):
 Say("Hello!")
 ```
 `> Hello!`
+
+![](https://github-readme-stats.vercel.app/api?username=d4vz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![d4vz's most used languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=d4vz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
