@@ -3,7 +3,7 @@ Hi there 👋 im d4vz.
 - 🌱 I’m currently learning Html and Css
 
 ```Python
-def Say_Hello:
+def Say_Hello():
     print("Hello!")
     
 Say_Hello()
