@@ -5,5 +5,6 @@ Hi there 👋 im d4vz.
 ```Python
 def Say_Hello:
     print("Hello!")
-}
+    
+Say_Hello()
 ```
