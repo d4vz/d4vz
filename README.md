@@ -15,7 +15,8 @@ sayHello();
 ```
 `> Hello!`
 
-###Contact me:
+##Contact me:
+
 [![Blog](https://img.shields.io/website?label=d4vz.netlify.app&style=for-the-badge&url=https://d4vz.netlify.app/)](https://d4vz.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jkkivad/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-orlandi-b1023a238/)
