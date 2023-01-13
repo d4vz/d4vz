@@ -21,5 +21,3 @@ Contact me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jkkivad/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-orlandi-b1023a238/)
 
-![](https://github-readme-stats.vercel.app/api?username=d4vz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-[![d4vz's most used languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=d4vz&layout=compact&theme=dracula)](https://github.com/d4vz/github-readme-stats)
