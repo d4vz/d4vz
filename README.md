@@ -1,4 +1,4 @@
-Hi there 👋 im d4vz, im 18 years old and and i am a front-end designer, focused in ReactJs and others front-end technologies.
+Hi there 👋 im d4vz, im 18 years old and and i am a software-engineer, focused in ReactJs and others front-end technologies.
 
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
