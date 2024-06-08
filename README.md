@@ -1,23 +1,2 @@
-Hi there 👋 im d4vz, im 18 years old and and i am a software-engineer, focused in ReactJs and others front-end technologies.
-
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-```Javascript
-function sayHello(){
-    console.log("Hello")
-}
-sayHello();
-```
-`> Hello!`
-
-Contact me!
-
-[![Blog](https://img.shields.io/website?label=d4vz.netlify.app&style=for-the-badge&url=https://portifolio-dun-gamma.vercel.app)](https://portifolio-dun-gamma.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jkkivad/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-orlandi-b1023a238/)
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fimageresizer.com%2Fpt%2Fgerador-de-memes%2Feditar%2Fyellow-emoji-face&psig=AOvVaw1g3moaZucF3nZCN9ZH3YXX&ust=1717892170067000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi6j5fdyoYDFQAAAAAdAAAAABAE');]{x0000}$}
