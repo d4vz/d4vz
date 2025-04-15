@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tipagem segura e Eficiência com next-safe-action no Next.js](https://dev.to/dvorlandi/seguranca-e-eficiencia-com-next-safe-action-no-nextjs-4kna)
+- [Understanding CQRS and Event Sourcing.](https://dev.to/dvorlandi/understanding-cqrs-and-event-sourcing-61m)
+- [Entendendo CQRS e Event Sourcing.](https://dev.to/dvorlandi/entendendo-cqrs-e-event-sourcing-4gom)
+- [Implementando Clean Architecture com TypeScript](https://dev.to/dvorlandi/implementando-clean-architecture-com-typescript-20pb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
