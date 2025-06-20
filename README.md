@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendendo Back Pressure: O Semáforo dos Seus Sistemas Distribuídos](https://dev.to/dvorlandi/entendendo-back-pressure-o-semaforo-dos-seus-sistemas-distribuidos-3d7p)
 - [Entendendo Outbox Pattern](https://dev.to/dvorlandi/entendendo-outbox-pattern-2jm6)
 - [Desvendando Event-Driven Architecture e Mensageria em Go com Watermill](https://dev.to/dvorlandi/desvendando-event-driven-architecture-e-mensageria-em-go-com-watermill-387h)
 - [Tipagem segura e Eficiência com next-safe-action no Next.js](https://dev.to/dvorlandi/seguranca-e-eficiencia-com-next-safe-action-no-nextjs-4kna)
-- [Understanding CQRS and Event Sourcing.](https://dev.to/dvorlandi/understanding-cqrs-and-event-sourcing-61m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
