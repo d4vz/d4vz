@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetura Baseada em Espaço &lpar;SBA - Space-Based Architecture&rpar;](https://dev.to/dvorlandi/arquitetura-baseada-em-espaco-sba-space-based-architecture-306c)
 - [Bloom Filters: Variações e Casos de Uso Reais](https://dev.to/dvorlandi/bloom-filters-variacoes-e-casos-de-uso-reais-g29)
 - [Progressive JSON em TypeScript: Carregando e Processando Dados de Forma Incremental](https://dev.to/dvorlandi/progressive-json-em-typescript-carregando-e-processando-dados-de-forma-incremental-1464)
 - [Progressive JSON em TypeScript: Carregando e Processando Dados de Forma Incremental](https://dev.to/dvorlandi/progressive-json-em-typescript-carregando-e-processando-dados-de-forma-incremental-12ba)
@@ -26,7 +27,6 @@
 - [Tipagem segura e Eficiência com next-safe-action no Next.js](https://dev.to/dvorlandi/seguranca-e-eficiencia-com-next-safe-action-no-nextjs-4kna)
 - [Understanding CQRS and Event Sourcing.](https://dev.to/dvorlandi/understanding-cqrs-and-event-sourcing-61m)
 - [Entendendo CQRS e Event Sourcing.](https://dev.to/dvorlandi/entendendo-cqrs-e-event-sourcing-4gom)
-- [Implementando Clean Architecture com TypeScript](https://dev.to/dvorlandi/implementando-clean-architecture-com-typescript-20pb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
