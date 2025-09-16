@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como implementar um Ledger](https://dev.to/dvorlandi/como-implementar-um-ledger-5hn9)
+- [Como implementar um Ledger](https://dev.to/dvorlandi/-2ko3)
 - [Arquitetura Baseada em Espaço &lpar;SBA - Space-Based Architecture&rpar;](https://dev.to/dvorlandi/arquitetura-baseada-em-espaco-sba-space-based-architecture-306c)
 - [Bloom Filters: Variações e Casos de Uso Reais](https://dev.to/dvorlandi/bloom-filters-variacoes-e-casos-de-uso-reais-g29)
 - [Progressive JSON em TypeScript: Carregando e Processando Dados de Forma Incremental](https://dev.to/dvorlandi/progressive-json-em-typescript-carregando-e-processando-dados-de-forma-incremental-1464)
@@ -25,8 +27,6 @@
 - [Entendendo Outbox Pattern](https://dev.to/dvorlandi/entendendo-outbox-pattern-2jm6)
 - [Desvendando Event-Driven Architecture e Mensageria em Go com Watermill](https://dev.to/dvorlandi/desvendando-event-driven-architecture-e-mensageria-em-go-com-watermill-387h)
 - [Tipagem segura e Eficiência com next-safe-action no Next.js](https://dev.to/dvorlandi/seguranca-e-eficiencia-com-next-safe-action-no-nextjs-4kna)
-- [Understanding CQRS and Event Sourcing.](https://dev.to/dvorlandi/understanding-cqrs-and-event-sourcing-61m)
-- [Entendendo CQRS e Event Sourcing.](https://dev.to/dvorlandi/entendendo-cqrs-e-event-sourcing-4gom)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
