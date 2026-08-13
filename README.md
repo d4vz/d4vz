@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm d4vz</h1>
+<h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">I’m a developer specialized in Go (Golang) and TypeScript, with strong experience in Next.js for frontend development and NestJS for building scalable backend services. I’m also a MongoDB User Group (MUG) leader and hold certifications in Data Modeling, among others. I’m passionate about clean architecture, high-performance systems, and building reliable, maintainable software at scale.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4vz&label=Profile%20views&color=0e75b6&style=flat" alt="d4vz" /> </p>
