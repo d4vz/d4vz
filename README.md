@@ -15,16 +15,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GO profiling using pprof](https://dev.to/dvorlandi/go-profilling-using-pprof-93i)
-- [Getting Started With Linux](https://dev.to/dvorlandi/getting-started-with-linux-4n7f)
-- [RAG with MongoDB Vector Search PART 1](https://dev.to/dvorlandi/rag-with-mongodb-vector-search-part-1-297e)
-- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
-- [Arquitetura Baseada em Espaço &lpar;SBA - Space-Based Architecture&rpar;](https://dev.to/dvorlandi/arquitetura-baseada-em-espaco-sba-space-based-architecture-306c)
-- [Bloom Filters: Variações e Casos de Uso Reais](https://dev.to/dvorlandi/bloom-filters-variacoes-e-casos-de-uso-reais-g29)
-- [Progressive JSON em TypeScript: Carregando e Processando Dados de Forma Incremental](https://dev.to/dvorlandi/progressive-json-em-typescript-carregando-e-processando-dados-de-forma-incremental-1464)
-- [Entendendo Back Pressure: O Semáforo dos Seus Sistemas Distribuídos](https://dev.to/dvorlandi/entendendo-back-pressure-o-semaforo-dos-seus-sistemas-distribuidos-3d7p)
-- [Entendendo Outbox Pattern](https://dev.to/dvorlandi/entendendo-outbox-pattern-2jm6)
-- [Desvendando Event-Driven Architecture e Mensageria em Go com Watermill](https://dev.to/dvorlandi/desvendando-event-driven-architecture-e-mensageria-em-go-com-watermill-387h)
+- [Atlas Online Archive for Large Collections: Keep Hot Data Hot](https://dev.to/dvorlandi/atlas-online-archive-for-large-collections-keep-hot-data-hot-33fm)
+- [Walking Hierarchies with MongoDB $graphLookup &lpar;Without Melting Memory&rpar;](https://dev.to/dvorlandi/walking-hierarchies-with-mongodb-graphlookup-without-melting-memory-3ejg)
+- [Lessons I Still Use from MongoDB in Action &lpar;Without Rewriting the Book&rpar;](https://dev.to/dvorlandi/lessons-i-still-use-from-mongodb-in-action-without-rewriting-the-book-52p4)
+- [Consul Service Discovery That Does Not Lie: Health Checks First](https://dev.to/dvorlandi/consul-service-discovery-that-does-not-lie-health-checks-first-13ap)
+- [Go Test Coverage Is a Smoke Alarm, Not a Quality Certificate](https://dev.to/dvorlandi/go-test-coverage-is-a-smoke-alarm-not-a-quality-certificate-2ik6)
+- [Rate Limiting Is Not Back Pressure: Layering Protection in Go Services](https://dev.to/dvorlandi/rate-limiting-is-not-back-pressure-layering-protection-in-go-services-12p)
+- [Bloom Filters for Username Checks: The Case Study &lpar;and When to Walk Away&rpar;](https://dev.to/dvorlandi/bloom-filters-for-username-checks-the-case-study-and-when-to-walk-away-3o6i)
+- [Watermill Pitfalls I Wish I Knew Before Shipping EDA in Go](https://dev.to/dvorlandi/watermill-pitfalls-i-wish-i-knew-before-shipping-eda-in-go-15lf)
+- [Redis Queues in Practice: Lists, Streams, and When Each One Wins](https://dev.to/dvorlandi/redis-queues-in-practice-lists-streams-and-when-each-one-wins-mm6)
+- [How I Use SDD &lpar;Spec-Driven Development&rpar;](https://dev.to/dvorlandi/how-i-use-sdd-spec-driven-development-2g9g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
